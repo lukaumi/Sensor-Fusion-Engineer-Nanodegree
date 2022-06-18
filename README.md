@@ -1,2 +1,3 @@
 # Sensor-Fusion-Engineer-Nanodegree
-Udacity Sensor Fusion Engineer Nanodegree project files.
+
+My project submissions for [Udacity Sensor Fusion Engineer Nanodegree](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313).
